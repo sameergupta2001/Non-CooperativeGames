@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1602176177 source:c:\users\samee\desktop\minor-i\prisoner's dilemma\prisoner's dilemma\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
